@@ -1,0 +1,12 @@
+{
+  "name": "fun-comate",
+  "version": "1.0.0",
+  "description": "不正经的 Comate Plugin —— 让编程不再无聊",
+  "author": "fanxin05",
+  "skills": [
+    "skills/cosplay",
+    "skills/fortune",
+    "skills/movie-bug",
+    "skills/breather"
+  ]
+}
